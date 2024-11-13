@@ -1,7 +1,6 @@
 import os
 import fitz  # PyMuPDF
 from PIL import Image
-import io
 import tempfile
 from PyPDF2 import PdfReader, PdfWriter
 import img2pdf
