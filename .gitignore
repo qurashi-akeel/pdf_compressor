@@ -1,0 +1,12 @@
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pywz
+
+*.pdf
+
+DS_Store
